@@ -1,0 +1,25 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[叠]uild/
+/[Bb]uilds/
+/[Cc]apture[Ss]creenshots/
+/[Dd]emigiant/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Memory dumps
+*.dmg
+*.dump
+
+# Crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+*.app
+
+# OS junk
+.DS_Store
+Thumbs.db
