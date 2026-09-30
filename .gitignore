@@ -1,7 +1,7 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[叠]uild/
+/[Bb]uild/
 /[Bb]uilds/
 /[Cc]apture[Ss]creenshots/
 /[Dd]emigiant/
@@ -23,3 +23,6 @@ sysinfo.txt
 # OS junk
 .DS_Store
 Thumbs.db
+
+*.csproj
+*.sln
