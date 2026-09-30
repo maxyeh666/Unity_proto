@@ -1,0 +1,8 @@
+# 告訴 GitHub 把所有的 C++、C 和標頭檔視為第三方代碼（不計入語言統計）
+*.cpp linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+
+# 告訴 GitHub 把所有的 .cs 檔案強制視為專案的核心可偵測語言
+*.cs linguist-detectable=true
